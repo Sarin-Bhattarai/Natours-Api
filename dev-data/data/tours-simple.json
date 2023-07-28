@@ -1,0 +1,49 @@
+[
+  {
+    "name": "The forest hiker",
+    "duartion": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "price": 400,
+    "summary": "lorem ipsum guide vipsum lispsum sismusm"
+  },
+  {
+    "name": "The forest killer",
+    "duartion": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "price": 400,
+    "summary": "lorem ipsum guide vipsum lispsum sismusm"
+  },
+  {
+    "name": "The forest saver",
+    "duartion": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "price": 400,
+    "summary": "lorem ipsum guide vipsum lispsum sismusm"
+  },
+  {
+    "id": 1,
+    "name": "Testing Everest",
+    "duartion": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "price": 400,
+    "summary": "lorem ipsum guide vipsum lispsum sismusm"
+  },
+  {
+    "id": 2,
+    "name": "Testing Annapurna",
+    "duartion": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "ratingsAverage": 4.7,
+    "price": 400,
+    "summary": "lorem ipsum guide vipsum lispsum sismusm"
+  }
+]
